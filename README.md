@@ -1,2 +1,3 @@
-# faq-devchallenge-project
- Devchallenge.io begginer challenge by creating a simple FAQ page.
+Hello, I'm Samayra
+
+This is my dechallenge.io beginner challenge in creating a simple FAQ.
